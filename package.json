@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ahmedmmeky/plot-tooltip": "https://api.observablehq.com/@ahmedmmeky/plot-tooltip.tgz?v=3",
+    "@ahmedmmeky/three-js-3": "https://api.observablehq.com/@ahmedmmeky/three-js-3.tgz?v=3",
+    "@ahmedmmeky/three-js-4": "https://api.observablehq.com/@ahmedmmeky/three-js-4.tgz?v=3",
+    "@clhenrick/tooltip-component": "https://api.observablehq.com/@clhenrick/tooltip-component.tgz?v=3",
+    "@observablehq/downloading-and-embedding-notebooks": "https://api.observablehq.com/@observablehq/downloading-and-embedding-notebooks.tgz?v=3",
+    "@observablehq/runtime": "4",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
